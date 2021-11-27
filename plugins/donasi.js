@@ -5,9 +5,9 @@ let dan = 'Donasi'
 let caption = `
 ╭─「 Donasi • Pulsa 」
 │ • Telkomsel [ nothing ]
-│ • OVO [ 0895372305081 ]
-│   • Dana [ 0895372305081 ]
-│   • Paypal [ 62895372305081 ]
+│ • OVO [ 0881037923331 ]
+│   • Dana [ 0881037923331 ]
+│   • Paypal [ 62881037923331 ]
 ╰────
 
 DONASI SEIKLASNYA SAJA YA!
